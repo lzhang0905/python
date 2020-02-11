@@ -1,1 +1,1 @@
-python is the best git init!
+python is the best !
